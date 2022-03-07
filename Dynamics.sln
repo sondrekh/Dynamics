@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamics", "Dynamics\Dynamics.csproj", "{922ADB21-C524-4EB0-B6E1-59541E2213A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{BF6266CE-20B4-4F16-94BA-57365C1B647D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B9CEA224-923C-4D0A-991A-CA31FB68512F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.runsettings = .runsettings
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922ADB21-C524-4EB0-B6E1-59541E2213A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922ADB21-C524-4EB0-B6E1-59541E2213A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922ADB21-C524-4EB0-B6E1-59541E2213A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922ADB21-C524-4EB0-B6E1-59541E2213A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6266CE-20B4-4F16-94BA-57365C1B647D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6266CE-20B4-4F16-94BA-57365C1B647D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6266CE-20B4-4F16-94BA-57365C1B647D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6266CE-20B4-4F16-94BA-57365C1B647D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F82875DF-02B8-487D-AC2E-B97B616CECEE}
+	EndGlobalSection
+EndGlobal
